@@ -1,16 +1,23 @@
-### Hi there 👋
+### WELCOME TO MY PROFILE 👋👋👋
+My name is Khoi Tran. I am a student at HCMUT. I am interested in the following topics: Math, Machine Learning, Deep Learning in NLP, and Computer Vision. Reinforcement Learning.<br>
+## 📫 How to reach me: 
 
-<!--
-**khoitran2003/khoitran2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khoi-tran-909246262/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khoitran2003) [![Facebok](https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png) Facebook](https://www.facebook.com/khoi.tran.8325/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Khoi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khoitran2003&show_icons=true&theme=radical&hide=contribs,prs,issues)
+
+<a href="https://github.com/khoitran2003/Mnist_Written_Digit_Recognition/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Mnist_Written_Digit_Recognition&theme=highcontrast" />
+</a>    
+<a href="https://github.com/khoitran2003/DS_Heart_attack_prediction/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=DS_Heart_attack_prediction&theme=nightowl" />
+</a>
+
+<a href="https://github.com/khoitran2003/Titanic/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Titanic&theme=gruvbox" />
+</a>    
