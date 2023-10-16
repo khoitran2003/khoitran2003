@@ -2,7 +2,7 @@
 My name is Khoi Tran. I am a student at HCMUT. I am interested in the following topics: Math, Machine Learning, Deep Learning in NLP, and Computer Vision. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khoi-tran-909246262/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khoitran2003) [![Facebok]() Facebook](https://www.facebook.com/khoi.tran.8325/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khoi-tran-909246262/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khoitran2003) [![Facebok]Facebook](https://www.facebook.com/khoi.tran.8325/)
 
 
 
