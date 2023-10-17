@@ -10,7 +10,7 @@ My name is Khoi Tran. I am a student at HCMUT. I am interested in the following 
 
 <a href="https://github.com/khoitran2003/MNIST_Handwritten_Digit_Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Mnist_Written_Digit_Recognition&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=MNIST_Handwritten_Digit_Recognition&theme=highcontrast" />
 </a>    
 <a href="https://github.com/khoitran2003/DS_Heart_attack_prediction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
