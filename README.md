@@ -1,5 +1,6 @@
-### WELCOME TO MY PROFILE 👋👋👋
-My name is Khoi Tran. I am a student at HCMUT. I am interested in the following topics: Mathematics, Machine Learning, Deep Learning in NLP, and Computer Vision. Reinforcement Learning.<br>
+### HI! HOW ARE U TODAY 
+My name is Khoi Tran. I am a student at HCMUT. I am interested in the following topics: Mathematics, Machine Learning, Deep Learning in Computer Vision.<br>
+
 ## 📫 How to reach me:  
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khoi-tran-909246262/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khoitran2003)
