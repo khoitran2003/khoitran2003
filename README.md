@@ -9,6 +9,11 @@ My name is Khoi Tran. I am a student at HCMUT. I am interested in the following 
 
 ![Khoi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khoitran2003&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
+<a href="https://github.com/khoitran2003/YOLOv5_Vietnamese_Card_Game">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=YOLOv5_Vietnamese_Card_Game&theme=jolly" />
+</a>
+
 <a href="https://github.com/khoitran2003/MNIST_Handwritten_Digit_Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=MNIST_Handwritten_Digit_Recognition&theme=highcontrast" />
