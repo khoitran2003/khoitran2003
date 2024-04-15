@@ -1,4 +1,4 @@
-### HI! HOW ARE U TODAY 
+### HI! WELCOME TO MY PAGE 😗
 My name is Khoi Tran. I am a student at HCMUT. I am interested in the following topics: Mathematics, Machine Learning, and Deep Learning in Computer Vision.<br>
 
 ## My Passion 🚀 :  
