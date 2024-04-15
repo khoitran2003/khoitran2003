@@ -11,7 +11,7 @@ My name is Khoi Tran. I am a student at HCMUT. I am interested in the following 
 
 <a href="https://github.com/khoitran2003/Face_analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Face_analysis&theme=swift" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Face_analysis&theme=vision-friendly-dark" />
 </a>
 
 <a href="https://github.com/khoitran2003/YOLOv5_Vietnamese_Card_Game">
