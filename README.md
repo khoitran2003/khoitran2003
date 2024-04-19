@@ -25,8 +25,3 @@ My resume: [here](https://drive.google.com/file/d/11RhJtZ-27A3Mwt6i2AHWO_frC_ZzP
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=DS_Heart_attack_prediction&theme=nightowl" />
 </a>
-
-<a href="https://github.com/khoitran2003/Titanic/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Titanic&theme=gruvbox" />
-</a>    
