@@ -8,15 +8,11 @@ My resume: [here](https://drive.google.com/file/d/11RhJtZ-27A3Mwt6i2AHWO_frC_ZzP
 
 <a href="https://github.com/khoitran2003/Face_analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Face_analysis&theme=maroongold" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=face-analysis&theme=maroongold" />
 </a>
 
 <a href="https://github.com/khoitran2003/YOLOv5_Vietnamese_Card_Game">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=YOLOv5_Vietnamese_Card_Game&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=Vietnamese-card-game&theme=jolly" />
 </a>
 
-<a href="https://github.com/khoitran2003/MNIST_Handwritten_Digit_Recognition">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoitran2003&repo=MNIST_Handwritten_Digit_Recognition&theme=highcontrast" />
-</a>
