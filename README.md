@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khoi</h1>
-<h3 align="center">I'm currently learning Machine Learning, Data Science and Computer Vision Engineer. Building, designing, evaluating, fixing ML systems and applying MLOps knowledge to practice </h3>
+<h3 align="center">I'm currently learning Machine Learning, Data Science and Computer Vision Engineer. Building, designing, evaluating, fixing ML systems and applying MLOps knowledge to practice 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoitran2003&label=Profile%20views&color=0e75b6&style=flat-square" alt="khoitran2003" /> </p>
 
 - 💬 Talking about **Deep Learning, AI, Computer Vision, Data Science**
 
 - 📫 Email: **anhkhoi246813579@gmail.com**
+
+- 📝 Resumé: [**HERE**](https://drive.google.com/file/d/1w_ap1Hxp9I0AJtUpOuYuMVusEfpWyRvi/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
