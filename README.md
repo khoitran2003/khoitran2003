@@ -7,7 +7,7 @@
 
 - 📫 Email: **anhkhoi246813579@gmail.com**
 
-- 📝 Resumé: [**HERE**](https://drive.google.com/file/d/1w_ap1Hxp9I0AJtUpOuYuMVusEfpWyRvi/view?usp=drivesdk)
+- 📝 Resumé: [**HERE**](https://drive.google.com/file/d/1gRLjrd764XoxKIWPu_khTVimXgPNV-Mg/view?usp=sharing)
 
 - 🌐 Website: [**khoitran2003.github.io**](https://khoitran2003.github.io/)
 
