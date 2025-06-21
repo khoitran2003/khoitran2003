@@ -5,7 +5,7 @@ I am in perfect synergy with AI
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />](https://drive.google.com/file/d/1gRLjrd764XoxKIWPu_khTVimXgPNV-Mg/view?usp=sharing)
+[<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />](https://drive.google.com/file/d/1sSMeH3eMZMAuj8WxPqjviPc5WITl59Bc/view?usp=drive_link)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/khoi.tran.8325/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khoi-tran-909246262/)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/khoianhh)
